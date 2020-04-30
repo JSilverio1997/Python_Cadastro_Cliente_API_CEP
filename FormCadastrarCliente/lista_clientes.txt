@@ -1,0 +1,236 @@
+________________________________________________________________________________
+	 	 	Relatório de Clientes
+Data e Horário do Relatório Gerado: 23/4/2020 - 19:33:37
+________________________________________________________________________________
+Nome: Beth Souza
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 199
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: 11989890988
+________________________________________________________________________________
+Nome: Bruna Ferreira
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 112
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: 1156620987
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Caroline
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 112
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: a
+Telefone: 11988720987
+________________________________________________________________________________
+Nome: Edilson
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 123
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Gustavo Augusto
+CEP: 04612-000
+Logradouro: Rua Baronesa de Bela Vista
+Número: 199
+Complemento: Condominio ceu belo bloco 288 apt 281
+Bairro: Vila Congonhas
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Jeferson
+CEP: 04811-000
+Logradouro: Rua Juan Gonzales Vila
+Número: 167
+Complemento: O Endereço não possuí complemento.
+Bairro: Vila Santo Antônio
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Jose
+CEP: 04612-000
+Logradouro: Rua Baronesa de Bela Vista
+Número: 132
+Complemento: O Endereço não possuí complemento.
+Bairro: Vila Congonhas
+Localidade: São Paulo
+UF: SP
+Celular: 1126780981
+Telefone: 11987670987
+________________________________________________________________________________
+Nome: Jose Da Silva
+CEP: 04610-000
+Logradouro: Rua Zacarias de Gois
+Número: 198
+Complemento: O Endereço não possuí complemento.
+Bairro: Parque Colonial
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: José Carvalho
+CEP: 04612-000
+Logradouro: Rua Baronesa de Bela Vista
+Número: 
+Complemento: O Endereço não possuí complemento.
+Bairro: Vila Congonhas
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: José Carvalho
+CEP: 04613-000
+Logradouro: Rua Otávio Tarquínio de Souza
+Número: 199
+Complemento: O Endereço não possuí complemento.
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Luciana
+CEP: 04614-000
+Logradouro: Rua Morais de Barros
+Número: 190
+Complemento: condominio vida bloco 20 apt 201
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: aa
+________________________________________________________________________________
+Nome: Luciano
+CEP: 04614-000
+Logradouro: Rua Morais de Barros
+Número: 198
+Complemento: bloco 198 apt 191
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Lucinelson
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 131
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Lucio
+CEP: 04614-000
+Logradouro: Rua Morais de Barros
+Número: 190
+Complemento: O Endereço não possuí complemento.
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Luis
+CEP: 04614-000
+Logradouro: Rua Morais de Barros
+Número: 190
+Complemento: bloco 1908 apt 298
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Luiz Bruno
+CEP: 04617-000
+Logradouro: Rua Vieira de Morais
+Número: 929
+Complemento: O Endereço não possuí complemento.
+Bairro: Campo Belo
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Roberta De Souza
+CEP: 04610-000
+Logradouro: Rua Zacarias de Gois
+Número: 121
+Complemento: Condominio Flores Bloco Bela vida apt 24
+Bairro: Parque Colonial
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Nome: Zenetti
+CEP: 04610-000
+Logradouro: Rua Zacarias de Gois
+Número: 122
+Complemento: Condominio Italia Bloco Roma apt 12
+Bairro: Parque Colonial
+Localidade: São Paulo
+UF: SP
+Celular: O Número do Celular não foi cadastrado.
+Telefone: 119876540987
+________________________________________________________________________________
+Nome: Zenetti
+CEP: 04612-000
+Logradouro: Rua Baronesa de Bela Vista
+Número: 131
+Complemento: O Endereço não possuí complemento.
+Bairro: Vila Congonhas
+Localidade: São Paulo
+UF: SP
+Celular: 119876540987
+Telefone: 119876540987
+________________________________________________________________________________
+Nome: Zenetti
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 11
+Complemento: Condominio Brooklin bloco 23 apt 77
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: 119876540987
+Telefone: 119876540987
+________________________________________________________________________________
+Nome: Zenetti 2
+CEP: 04611-000
+Logradouro: Rua República do Iraque
+Número: 131
+Complemento: O Endereço não possuí complemento.
+Bairro: Brooklin Paulista
+Localidade: São Paulo
+UF: SP
+Celular: 119876540987
+Telefone: O Número do Telefone não foi cadastrado.
+________________________________________________________________________________
+Quantidade de Clientes Cadastrados: 21.
